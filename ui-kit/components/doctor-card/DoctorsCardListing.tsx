@@ -12,7 +12,6 @@ import type { DoctorBasicInfoInterface } from '../../../types/doctor';
 
 // Components
 import DoctorCardFullSize from './FullSize';
-import LogoWithText from '../../atoms/logo/logo-with-text';
 
 // Styled components
 const DoctorCardWrapper = styled.View`
@@ -56,11 +55,6 @@ const DoctorsCardListing: React.FC<doctorsCardListing> = ({ doctorsArray }) => {
       style={tailwind('w-full bg-custom-gray-2 border-t border-custom-gray-1')}
     >
       {DoctorsComponents}
-
-      {/* Dp logo at the end */}
-      <View style={tailwind('items-center py-3')}>
-        <LogoWithText size="sm" color="gray-600" />
-      </View>
     </Wrapper>
   );
 };
