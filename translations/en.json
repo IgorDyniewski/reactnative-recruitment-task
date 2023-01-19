@@ -1,0 +1,29 @@
+{
+  "test": "Hi",
+  "homeScreen": {
+    "title1": "Hi",
+    "title2": "Mark!",
+    "subtitle": "Click profile picture to see atoms used in this project ☝️",
+    "profilePicture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+  },
+  "opinions": "opinions",
+  "maps": "Map",
+  "availableSlots": "Available slots:",
+  "noSlotsAvailable": "There are no slots left.",
+  "address": "Address",
+  "moreSlotsText": "More",
+  "welcomeScreenTitle": {
+    "welcomeIn": "Welcome in",
+    "middleText": "Docplanner",
+    "endText": "demo!"
+  },
+  "componentsModalTitle": "Your components",
+  "atoms": {
+    "title": "Atoms",
+    "subTitle": "Bellow you will find all atoms for this project"
+  },
+  "goodbyeMsg": {
+    "title": "And many more :)",
+    "subTitle": " You can find all atoms and component in the codebase"
+  }
+}

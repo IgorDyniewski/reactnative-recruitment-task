@@ -1,0 +1,2567 @@
+{
+    "items": [
+        {
+            "id": 18887,
+            "entity_type": "doctor",
+            "is_first_class": true,
+            "name": "lek. Mariusz Sadowski",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/8ae5e8\/8ae5e89e4f3d0add3e5f1e28dbfe4f0e_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/mariusz-sadowski\/ginekolog\/warszawa",
+            "rating": {
+                "stars": 5,
+                "count": 339
+            },
+            "addresses": [
+                {
+                    "id": 833124,
+                    "geo_point": {
+                        "latitude": 52.2009736,
+                        "longitude": 20.9665756
+                    },
+                    "name": "Gabinet Ginekologiczny",
+                    "city": "Warszawa",
+                    "street": "Grójecka 194 \/ 443 wejście A3 Przystanek: Korotyńskiego",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Grójecka 194 \/ 443 wejście A3 Przystanek: Korotyńskiego<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 150,
+                                    "is_minimal": false
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 275351,
+                    "geo_point": {
+                        "latitude": 52.21085,
+                        "longitude": 20.969208
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Elizy Orzeszkowej 14",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Elizy Orzeszkowej 14<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": "Jestem bardzo zadowolona z wizyty. Pan Doktor profesjonalista w tym co robi, dokładny podczas badania o wszystkim mówi, ale też wysłucha pacjentkę. Szczerze polecam."
+            },
+            "photos": [
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/b91676\/b91676cdd3733c8d722de3f55e55ab63_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/0b11ce\/0b11ce1aeaf5ffdbfd3a9e627ea84245_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/dc8452\/dc8452467298a0c12fbb8ed8de2402cf_medium_square.jpg"
+                }
+            ]
+        },
+        {
+            "id": 229662,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "FemiClinic",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/48ffa4\/48ffa4a454d47709eafb359fdd73646d_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 84,
+                        "name": "fizjoterapeuta"
+                    },
+                    "schema_name": "Physiotherapy"
+                },
+                {
+                    "specialization": {
+                        "id": 87,
+                        "name": "seksuolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 93,
+                        "name": "psycholog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/femiclinic",
+            "rating": {
+                "stars": 5,
+                "count": 1343
+            },
+            "addresses": [
+                {
+                    "id": 275352,
+                    "geo_point": {
+                        "latitude": 52.21085,
+                        "longitude": 20.969208
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Elizy Orzeszkowej 14",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Elizy Orzeszkowej 14<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 160,
+                                    "is_minimal": false
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 70900,
+            "entity_type": "doctor",
+            "is_first_class": true,
+            "name": "lek. Andrzej Wincewicz",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/4a8da6\/4a8da6b9bf08eb6430d6c66e56455ff2_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/andrzej-wincewicz\/ginekolog-endokrynolog\/warszawa",
+            "rating": {
+                "stars": 4.5,
+                "count": 465
+            },
+            "addresses": [
+                {
+                    "id": 426946,
+                    "geo_point": {
+                        "latitude": 52.2271194,
+                        "longitude": 21.0170784
+                    },
+                    "name": "Prywatny Gabinet Lekarski",
+                    "city": "Warszawa",
+                    "street": "Hoża 34\/17",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Hoża 34\/17<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 150,
+                                    "is_minimal": true
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 922770,
+                    "geo_point": {
+                        "latitude": 52.2474442,
+                        "longitude": 20.988449
+                    },
+                    "name": "Centrum Medyczne Unicare Wola",
+                    "city": "Warszawa",
+                    "street": "al. Jana Pawła II 61 lok. 213",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">al. Jana Pawła II 61 lok. 213<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 150,
+                                    "is_minimal": false
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": "Konkretny i sympatyczny lekarz. Pan Doktor jako jeden z niewielu lekarzy na których trafiłam wiedział jak podejść do mojego problemu. \r\nDokładnie wytłumaczył na czym polega problem i przedstawił rozwiązanie, które się sprawdziło."
+            },
+            "photos": [
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/703bc1\/703bc19d08d5df32090faf7f6439de87_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/90002f\/90002f429d7bb7ee2b322757e188a9b7_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/2a7e07\/2a7e07ab71df45f96bc3387068c08ccb_medium_square.jpg"
+                }
+            ]
+        },
+        {
+            "id": 179460,
+            "entity_type": "doctor",
+            "is_first_class": true,
+            "name": "lek. Elżbieta Fajfrowska-Al Ali",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/6300c1\/6300c1bb376283fd7c869761b36980bc_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/elzbieta-fajfrowska-al-ali\/ginekolog\/warszawa",
+            "rating": {
+                "stars": 5,
+                "count": 550
+            },
+            "addresses": [
+                {
+                    "id": 490980,
+                    "geo_point": {
+                        "latitude": 52.224228,
+                        "longitude": 21.0933266
+                    },
+                    "name": "BORAMED",
+                    "city": "Warszawa",
+                    "street": "Bora-Komorowskiego 21 lok. 307",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Bora-Komorowskiego 21 lok. 307<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 200,
+                                    "is_minimal": true
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 934099,
+                    "geo_point": {
+                        "latitude": 52.2471618,
+                        "longitude": 21.005064
+                    },
+                    "name": "VeritaMed",
+                    "city": "Warszawa",
+                    "street": "Długa 27",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Długa 27<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 200,
+                                    "is_minimal": false
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 479968,
+                    "geo_point": {
+                        "latitude": 52.1622468,
+                        "longitude": 21.028761
+                    },
+                    "name": "BORAMED-KEN",
+                    "city": "Warszawa",
+                    "street": "Beli Bartoka 8  lok. U\/A",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Beli Bartoka 8  lok. U\/A<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 200,
+                                    "is_minimal": true
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": "Świetna profesjonalistka, wie co robi, do tego uprzejma. Byłam u niej parę razy w sytuacjach kryzysowych, gdyż ma bliskie terminy i świetne opinie. Zazwyczaj, gdy nawalają lekarze z prywatnej służby zdrowia. Tym razem od 4 miesięcy nie potrafią wyleczyć mnie z grzybicy, gdyż karmię piersią. Pani doktor przepisała mi standardowe leki doustne, gdyż nie są niebezpieczne dla dziecka (czego poprzedni lekarze nie byli pewni, więc bali się je przepisać, natomiast zgadza się to z moim researchem i postępowaniem lekarzy za granicą), oraz lek o działaniu lokalnym najnowszej generacji. Jestem pełna nadziei, że tym razem będzie poprawa. Pozdrawiam panią doktor. "
+            },
+            "photos": [
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/928b82\/928b8298e8210699fd09f6cc502d02e1_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/c11384\/c113841c94f3aea6e6c912b1f432564f_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/9bcc2f\/9bcc2fe3cdc124515910bd00f27643d8_medium_square.jpg"
+                }
+            ]
+        },
+        {
+            "id": 150830,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "BORAMED",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/ae93b8\/ae93b8847aae5958e1a7d16d62e64ccf_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 45,
+                        "name": "alergolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 54,
+                        "name": "gastrolog"
+                    },
+                    "schema_name": "Gastroenterologic"
+                },
+                {
+                    "specialization": {
+                        "id": 58,
+                        "name": "hematolog"
+                    },
+                    "schema_name": "Hematologic"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 63,
+                        "name": "laryngolog"
+                    },
+                    "schema_name": "Otolaryngologic"
+                },
+                {
+                    "specialization": {
+                        "id": 71,
+                        "name": "neurolog"
+                    },
+                    "schema_name": "Neurologic"
+                },
+                {
+                    "specialization": {
+                        "id": 72,
+                        "name": "terapeuta"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 76,
+                        "name": "ortopeda"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 84,
+                        "name": "fizjoterapeuta"
+                    },
+                    "schema_name": "Physiotherapy"
+                },
+                {
+                    "specialization": {
+                        "id": 86,
+                        "name": "reumatolog"
+                    },
+                    "schema_name": "Rheumatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 94,
+                        "name": "diabetolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 103,
+                        "name": "stomatolog"
+                    },
+                    "schema_name": "Dentistry"
+                },
+                {
+                    "specialization": {
+                        "id": 110,
+                        "name": "chirurg szczękowy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 120,
+                        "name": "chirurg dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 124,
+                        "name": "stomatolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 126,
+                        "name": "laryngolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 136,
+                        "name": "neonatolog"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/boramed",
+            "rating": {
+                "stars": 5,
+                "count": 2998
+            },
+            "addresses": [
+                {
+                    "id": 219210,
+                    "geo_point": {
+                        "latitude": 52.224228,
+                        "longitude": 21.093326
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Bora-Komorowskiego 21 lok. 307",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Bora-Komorowskiego 21 lok. 307<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 224764,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Centrum Medyczne Unicare Sp. z o.o.",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/facility\/4a9d3e\/4a9d3e00932612027bf9b8ab703c8526_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 84,
+                        "name": "fizjoterapeuta"
+                    },
+                    "schema_name": "Physiotherapy"
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/centrum-medyczne-unicare-sp-z-o-o",
+            "rating": {
+                "stars": 5,
+                "count": 4382
+            },
+            "addresses": [
+                {
+                    "id": 268752,
+                    "geo_point": {
+                        "latitude": 52.15989,
+                        "longitude": 21.069632
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "ul. Hlonda 2 lok. U8",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">ul. Hlonda 2 lok. U8<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 226228,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "VeritaMed",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/3711d3\/3711d37f0c2e8546116bbeade202ae53_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 54,
+                        "name": "gastrolog"
+                    },
+                    "schema_name": "Gastroenterologic"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 63,
+                        "name": "laryngolog"
+                    },
+                    "schema_name": "Otolaryngologic"
+                },
+                {
+                    "specialization": {
+                        "id": 66,
+                        "name": "lekarz rodzinny"
+                    },
+                    "schema_name": "CommunityHealth"
+                },
+                {
+                    "specialization": {
+                        "id": 71,
+                        "name": "neurolog"
+                    },
+                    "schema_name": "Neurologic"
+                },
+                {
+                    "specialization": {
+                        "id": 72,
+                        "name": "terapeuta"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 80,
+                        "name": "proktolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 81,
+                        "name": "psychiatra"
+                    },
+                    "schema_name": "Psychiatric"
+                },
+                {
+                    "specialization": {
+                        "id": 82,
+                        "name": "pulmonolog"
+                    },
+                    "schema_name": "Pulmonary"
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 86,
+                        "name": "reumatolog"
+                    },
+                    "schema_name": "Rheumatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 87,
+                        "name": "seksuolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 93,
+                        "name": "psycholog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 94,
+                        "name": "diabetolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 108,
+                        "name": "chirurg naczyniowy"
+                    },
+                    "schema_name": "Cardiovascular"
+                },
+                {
+                    "specialization": {
+                        "id": 112,
+                        "name": "lekarz chorób zakaźnych"
+                    },
+                    "schema_name": "Infectious"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/veritamed",
+            "rating": {
+                "stars": 5,
+                "count": 4260
+            },
+            "addresses": [
+                {
+                    "id": 270854,
+                    "geo_point": {
+                        "latitude": 52.247162,
+                        "longitude": 21.005064
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Długa 27",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Długa 27<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 227668,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Centrum Medyczne  MediSpace",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/0643da\/0643da76769226bc28fe848c9f6490bd_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 45,
+                        "name": "alergolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 47,
+                        "name": "anestezjolog"
+                    },
+                    "schema_name": "Anesthesia"
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 54,
+                        "name": "gastrolog"
+                    },
+                    "schema_name": "Gastroenterologic"
+                },
+                {
+                    "specialization": {
+                        "id": 58,
+                        "name": "hematolog"
+                    },
+                    "schema_name": "Hematologic"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 63,
+                        "name": "laryngolog"
+                    },
+                    "schema_name": "Otolaryngologic"
+                },
+                {
+                    "specialization": {
+                        "id": 64,
+                        "name": "bariatra"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 69,
+                        "name": "nefrolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 76,
+                        "name": "ortopeda"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 80,
+                        "name": "proktolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 86,
+                        "name": "reumatolog"
+                    },
+                    "schema_name": "Rheumatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 94,
+                        "name": "diabetolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 108,
+                        "name": "chirurg naczyniowy"
+                    },
+                    "schema_name": "Cardiovascular"
+                },
+                {
+                    "specialization": {
+                        "id": 126,
+                        "name": "laryngolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 128,
+                        "name": "flebolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 144,
+                        "name": "ortopeda dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 161,
+                        "name": "gastrolog dziecięcy"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/centrum-medyczne-medispace",
+            "rating": {
+                "stars": 5,
+                "count": 3571
+            },
+            "addresses": [
+                {
+                    "id": 272780,
+                    "geo_point": {
+                        "latitude": 52.251652,
+                        "longitude": 20.979256
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Spokojna 5",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Spokojna 5<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 224916,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Premium Medical",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/19d62f\/19d62fffa483831b59c681d788401cb4_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 46,
+                        "name": "androlog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 55,
+                        "name": "genetyk"
+                    },
+                    "schema_name": "Genetic"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 70,
+                        "name": "neurochirurg"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 74,
+                        "name": "onkolog"
+                    },
+                    "schema_name": "Oncologic"
+                },
+                {
+                    "specialization": {
+                        "id": 76,
+                        "name": "ortopeda"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 77,
+                        "name": "patomorfolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 82,
+                        "name": "pulmonolog"
+                    },
+                    "schema_name": "Pulmonary"
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 87,
+                        "name": "seksuolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 94,
+                        "name": "diabetolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 108,
+                        "name": "chirurg naczyniowy"
+                    },
+                    "schema_name": "Cardiovascular"
+                },
+                {
+                    "specialization": {
+                        "id": 120,
+                        "name": "chirurg dziecięcy"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/premium-medical",
+            "rating": {
+                "stars": 5,
+                "count": 2132
+            },
+            "addresses": [
+                {
+                    "id": 268980,
+                    "geo_point": {
+                        "latitude": 52.246014,
+                        "longitude": 21.08566
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Kobielska 23, wejście od Ronda Wiatraczna, II piętro Galerii Grochów",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Kobielska 23, wejście od Ronda Wiatraczna, II piętro Galerii Grochów<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 227308,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Macromedica Centrum Medyczne",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/facility\/7ac486\/7ac486f321f5241756f50313a706232f_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 63,
+                        "name": "laryngolog"
+                    },
+                    "schema_name": "Otolaryngologic"
+                },
+                {
+                    "specialization": {
+                        "id": 71,
+                        "name": "neurolog"
+                    },
+                    "schema_name": "Neurologic"
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 74,
+                        "name": "onkolog"
+                    },
+                    "schema_name": "Oncologic"
+                },
+                {
+                    "specialization": {
+                        "id": 76,
+                        "name": "ortopeda"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 81,
+                        "name": "psychiatra"
+                    },
+                    "schema_name": "Psychiatric"
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 93,
+                        "name": "psycholog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 108,
+                        "name": "chirurg naczyniowy"
+                    },
+                    "schema_name": "Cardiovascular"
+                },
+                {
+                    "specialization": {
+                        "id": 112,
+                        "name": "lekarz chorób zakaźnych"
+                    },
+                    "schema_name": "Infectious"
+                },
+                {
+                    "specialization": {
+                        "id": 118,
+                        "name": "neurolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 126,
+                        "name": "laryngolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 152,
+                        "name": "psychoterapeuta"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/macromedica-centrum-medyczne",
+            "rating": {
+                "stars": 5,
+                "count": 1508
+            },
+            "addresses": [
+                {
+                    "id": 272278,
+                    "geo_point": {
+                        "latitude": 52.206832,
+                        "longitude": 21.037916
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Jurija Gagarina 26\/U5",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Jurija Gagarina 26\/U5<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 148850,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Centrum Medyczne Babka Medica",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/8e483f\/8e483f6753ca9f5c7639ddb64e494b20_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 45,
+                        "name": "alergolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 54,
+                        "name": "gastrolog"
+                    },
+                    "schema_name": "Gastroenterologic"
+                },
+                {
+                    "specialization": {
+                        "id": 58,
+                        "name": "hematolog"
+                    },
+                    "schema_name": "Hematologic"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 63,
+                        "name": "laryngolog"
+                    },
+                    "schema_name": "Otolaryngologic"
+                },
+                {
+                    "specialization": {
+                        "id": 66,
+                        "name": "lekarz rodzinny"
+                    },
+                    "schema_name": "CommunityHealth"
+                },
+                {
+                    "specialization": {
+                        "id": 69,
+                        "name": "nefrolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 71,
+                        "name": "neurolog"
+                    },
+                    "schema_name": "Neurologic"
+                },
+                {
+                    "specialization": {
+                        "id": 72,
+                        "name": "terapeuta"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 74,
+                        "name": "onkolog"
+                    },
+                    "schema_name": "Oncologic"
+                },
+                {
+                    "specialization": {
+                        "id": 76,
+                        "name": "ortopeda"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 80,
+                        "name": "proktolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 81,
+                        "name": "psychiatra"
+                    },
+                    "schema_name": "Psychiatric"
+                },
+                {
+                    "specialization": {
+                        "id": 82,
+                        "name": "pulmonolog"
+                    },
+                    "schema_name": "Pulmonary"
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 84,
+                        "name": "fizjoterapeuta"
+                    },
+                    "schema_name": "Physiotherapy"
+                },
+                {
+                    "specialization": {
+                        "id": 86,
+                        "name": "reumatolog"
+                    },
+                    "schema_name": "Rheumatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 93,
+                        "name": "psycholog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 104,
+                        "name": "logopeda"
+                    },
+                    "schema_name": "SpeechPathology"
+                },
+                {
+                    "specialization": {
+                        "id": 106,
+                        "name": "lekarz rehabilitacji medycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 108,
+                        "name": "chirurg naczyniowy"
+                    },
+                    "schema_name": "Cardiovascular"
+                },
+                {
+                    "specialization": {
+                        "id": 118,
+                        "name": "neurolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 120,
+                        "name": "chirurg dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 122,
+                        "name": "kardiolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 126,
+                        "name": "laryngolog dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 128,
+                        "name": "flebolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 132,
+                        "name": "hipertensjolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 136,
+                        "name": "neonatolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 152,
+                        "name": "psychoterapeuta"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/centrum-medyczne-babka-medica",
+            "rating": {
+                "stars": 5,
+                "count": 4611
+            },
+            "addresses": [
+                {
+                    "id": 218152,
+                    "geo_point": {
+                        "latitude": 52.254776,
+                        "longitude": 20.985036
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Słomińskiego 19 lok. 517",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Słomińskiego 19 lok. 517<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 231057,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Centrum Medyczne Unicare Wola",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/234e78\/234e78528da4e4284b367beae20cd7bf_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/centrum-medyczne-unicare-wola",
+            "rating": {
+                "stars": 5,
+                "count": 2440
+            },
+            "addresses": [
+                {
+                    "id": 277204,
+                    "geo_point": {
+                        "latitude": 52.247444,
+                        "longitude": 20.98845
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "al. Jana Pawła II 61 lok. 213",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">al. Jana Pawła II 61 lok. 213<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 227906,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "Centrum Medyczne Unicare Rembielińska",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/daea02\/daea0286a24af180fb32bb06a5ebb85d_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 46,
+                        "name": "androlog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 79,
+                        "name": "położna"
+                    },
+                    "schema_name": "Midwifery"
+                },
+                {
+                    "specialization": {
+                        "id": 84,
+                        "name": "fizjoterapeuta"
+                    },
+                    "schema_name": "Physiotherapy"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": false,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/centrum-medyczne-unicare-rembielinska",
+            "rating": {
+                "stars": 5,
+                "count": 2807
+            },
+            "addresses": [
+                {
+                    "id": 273088,
+                    "geo_point": {
+                        "latitude": 52.288772,
+                        "longitude": 21.030912
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Rembielińska 20",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Rembielińska 20<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 246758,
+            "entity_type": "doctor",
+            "is_first_class": true,
+            "name": "lek. Wojciech Piotr Majkusiak",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/436a85\/436a85a2f5e431416e7e1afab2b2b110_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/wojciech-piotr-majkusiak\/ginekolog\/warszawa",
+            "rating": {
+                "stars": 5,
+                "count": 27
+            },
+            "addresses": [
+                {
+                    "id": 898996,
+                    "geo_point": {
+                        "latitude": 52.224228,
+                        "longitude": 21.0933266
+                    },
+                    "name": "BORAMED",
+                    "city": "Warszawa",
+                    "street": "Bora-Komorowskiego 21 lok. 307",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Bora-Komorowskiego 21 lok. 307<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 180,
+                                    "is_minimal": true
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 898998,
+                    "geo_point": {
+                        "latitude": 52.1622468,
+                        "longitude": 21.028761
+                    },
+                    "name": "BORAMED-KEN",
+                    "city": "Warszawa",
+                    "street": "Beli Bartoka 8  lok. U\/A",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Beli Bartoka 8  lok. U\/A<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "commercial-calendar-active",
+                    "services": {
+                        "services": [
+                            {
+                                "id": 609,
+                                "name": "konsultacja ginekologiczna",
+                                "price": {
+                                    "price": 180,
+                                    "is_minimal": true
+                                },
+                                "specialization_id": 57,
+                                "is_default": true
+                            }
+                        ]
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": "Wspaniały lekarz z powołania. Miły, delikatny, podczas badania jak również podczas badania usg wszystko dokładnie tłumaczy. Napewno nie raz wrócę na wizytę do pana Doktora. "
+            },
+            "photos": [
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/54f23f\/54f23fb01314f1f053225b79eb5ddc1b_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/d04ffd\/d04ffd3cbb21b7c8689977379f06dc7b_medium_square.jpg"
+                },
+                {
+                    "url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/6b8690\/6b8690d3417f5a30e220f525c817f8c0_medium_square.jpg"
+                }
+            ]
+        },
+        {
+            "id": 230402,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "SAN-CREDO-MED",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/5d62ee\/5d62ee6e330ab1fae5e1ee25a037438f_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 66,
+                        "name": "lekarz rodzinny"
+                    },
+                    "schema_name": "CommunityHealth"
+                },
+                {
+                    "specialization": {
+                        "id": 74,
+                        "name": "onkolog"
+                    },
+                    "schema_name": "Oncologic"
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 84,
+                        "name": "fizjoterapeuta"
+                    },
+                    "schema_name": "Physiotherapy"
+                },
+                {
+                    "specialization": {
+                        "id": 93,
+                        "name": "psycholog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 94,
+                        "name": "diabetolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 98,
+                        "name": "dietetyk"
+                    },
+                    "schema_name": "DietNutrition"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/san-credo-med",
+            "rating": {
+                "stars": 5,
+                "count": 437
+            },
+            "addresses": [
+                {
+                    "id": 276336,
+                    "geo_point": {
+                        "latitude": 52.239856,
+                        "longitude": 21.102222
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Komorska 49",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Komorska 49<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        },
+        {
+            "id": 226656,
+            "entity_type": "facility",
+            "is_first_class": false,
+            "name": "PROFEMED Lekarze Specjaliści",
+            "photo_url": "\/\/s3-eu-west-1.amazonaws.com\/znanylekarz.pl\/doctor\/3ecce3\/3ecce3d09877391c0547b622ac1947c4_medium_square.jpg",
+            "specializations": [
+                {
+                    "specialization": {
+                        "id": 57,
+                        "name": "ginekolog"
+                    },
+                    "schema_name": "Gynecologic"
+                },
+                {
+                    "specialization": {
+                        "id": 45,
+                        "name": "alergolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 50,
+                        "name": "chirurg"
+                    },
+                    "schema_name": "Surgical"
+                },
+                {
+                    "specialization": {
+                        "id": 52,
+                        "name": "dermatolog"
+                    },
+                    "schema_name": "Dermatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 53,
+                        "name": "endokrynolog"
+                    },
+                    "schema_name": "Endocrine"
+                },
+                {
+                    "specialization": {
+                        "id": 54,
+                        "name": "gastrolog"
+                    },
+                    "schema_name": "Gastroenterologic"
+                },
+                {
+                    "specialization": {
+                        "id": 55,
+                        "name": "genetyk"
+                    },
+                    "schema_name": "Genetic"
+                },
+                {
+                    "specialization": {
+                        "id": 58,
+                        "name": "hematolog"
+                    },
+                    "schema_name": "Hematologic"
+                },
+                {
+                    "specialization": {
+                        "id": 61,
+                        "name": "internista"
+                    },
+                    "schema_name": "PrimaryCare"
+                },
+                {
+                    "specialization": {
+                        "id": 62,
+                        "name": "kardiolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 63,
+                        "name": "laryngolog"
+                    },
+                    "schema_name": "Otolaryngologic"
+                },
+                {
+                    "specialization": {
+                        "id": 66,
+                        "name": "lekarz rodzinny"
+                    },
+                    "schema_name": "CommunityHealth"
+                },
+                {
+                    "specialization": {
+                        "id": 68,
+                        "name": "lekarz sportowy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 69,
+                        "name": "nefrolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 70,
+                        "name": "neurochirurg"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 71,
+                        "name": "neurolog"
+                    },
+                    "schema_name": "Neurologic"
+                },
+                {
+                    "specialization": {
+                        "id": 73,
+                        "name": "okulista"
+                    },
+                    "schema_name": "Optometic"
+                },
+                {
+                    "specialization": {
+                        "id": 74,
+                        "name": "onkolog"
+                    },
+                    "schema_name": "Oncologic"
+                },
+                {
+                    "specialization": {
+                        "id": 76,
+                        "name": "ortopeda"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 78,
+                        "name": "pediatra"
+                    },
+                    "schema_name": "Pediatric"
+                },
+                {
+                    "specialization": {
+                        "id": 80,
+                        "name": "proktolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 81,
+                        "name": "psychiatra"
+                    },
+                    "schema_name": "Psychiatric"
+                },
+                {
+                    "specialization": {
+                        "id": 82,
+                        "name": "pulmonolog"
+                    },
+                    "schema_name": "Pulmonary"
+                },
+                {
+                    "specialization": {
+                        "id": 83,
+                        "name": "radiolog"
+                    },
+                    "schema_name": "Radiograpy"
+                },
+                {
+                    "specialization": {
+                        "id": 86,
+                        "name": "reumatolog"
+                    },
+                    "schema_name": "Rheumatologic"
+                },
+                {
+                    "specialization": {
+                        "id": 87,
+                        "name": "seksuolog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 90,
+                        "name": "urolog"
+                    },
+                    "schema_name": "Urologic"
+                },
+                {
+                    "specialization": {
+                        "id": 93,
+                        "name": "psycholog"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 96,
+                        "name": "diagnostyk"
+                    },
+                    "schema_name": "LaboratoryScience"
+                },
+                {
+                    "specialization": {
+                        "id": 102,
+                        "name": "lekarz medycyny estetycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 104,
+                        "name": "logopeda"
+                    },
+                    "schema_name": "SpeechPathology"
+                },
+                {
+                    "specialization": {
+                        "id": 106,
+                        "name": "lekarz rehabilitacji medycznej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 108,
+                        "name": "chirurg naczyniowy"
+                    },
+                    "schema_name": "Cardiovascular"
+                },
+                {
+                    "specialization": {
+                        "id": 112,
+                        "name": "lekarz chorób zakaźnych"
+                    },
+                    "schema_name": "Infectious"
+                },
+                {
+                    "specialization": {
+                        "id": 116,
+                        "name": "specjalista medycyny naturalnej"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 120,
+                        "name": "chirurg dziecięcy"
+                    },
+                    "schema_name": ""
+                },
+                {
+                    "specialization": {
+                        "id": 132,
+                        "name": "hipertensjolog"
+                    },
+                    "schema_name": ""
+                }
+            ],
+            "is_commercial": true,
+            "is_verified": true,
+            "profile_url": "https:\/\/www.znanylekarz.pl\/placowki\/profemed-lekarze-specjalisci-2",
+            "rating": {
+                "stars": 5,
+                "count": 3273
+            },
+            "addresses": [
+                {
+                    "id": 271464,
+                    "geo_point": {
+                        "latitude": 52.227662,
+                        "longitude": 21.00425
+                    },
+                    "name": "",
+                    "city": "Warszawa",
+                    "street": "Aleje Jerozolimskie 65\/79, 6\/8p",
+                    "province": "mazowieckie",
+                    "city_with_street": "<span class=\"street\">Aleje Jerozolimskie 65\/79, 6\/8p<\/span>, <span class=\"city\">Warszawa<\/span>",
+                    "calendar_state": "facility-calendar",
+                    "services": {
+                        "services": []
+                    }
+                }
+            ],
+            "opinion": {
+                "comment": ""
+            },
+            "photos": []
+        }
+    ]
+}
